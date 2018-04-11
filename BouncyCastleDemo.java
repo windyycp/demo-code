@@ -1,4 +1,4 @@
-package com.irps.hf.core.web.bcprov;
+package com.bcprov;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
